@@ -3,7 +3,7 @@ Various python scripts for post processing data from DFT calculations with vario
 
 Current list of scripts:
 
-NEB_plot.py - Create an energy diagram from NEB calculation (CP2K)
-SIESTA_coord.py - Create SIESTA coordination block for the input file from a XYZ file 
+NEB_plot.py - Create an energy diagram from NEB calculation (CP2K) \n
+SIESTA_coord.py - Create SIESTA coordination block for the input file from a XYZ file \n
 SIESTA_EIG.py - Plot EIG file to see the eigenvalue spectrum to visualize the spread of eigenvalues.
 
