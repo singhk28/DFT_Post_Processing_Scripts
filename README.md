@@ -25,5 +25,9 @@ Current list of scripts:
 
    * MatplotLib: pip install matplotlib [https://pypi.org/project/matplotlib/] 
    
-3) Open Powershell and navigate to the directory with the script and the required file (depending on DFT calculation of interest)
+3) Open Powershell and navigate to the directory with the script and the required file (depending on DFT calculation of interest):
+
+   In windows, this can be achieved by writing: **cd "path of directory"** 
+
+4) Once in the correct directory, launch the script by writing: **python "script_name.py"** 
 
