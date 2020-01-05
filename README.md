@@ -13,15 +13,15 @@ Current list of scripts:
 
 1) Install Python version 3 (Preferrably 3.7) [https://www.python.org/downloads/release/python-370/]
 
-* Ensure python has been added to path when installing. 
+   * Ensure python has been added to path when installing. 
 
 2) Install the neccessary modules 
 
    In windows, this can be achieved by opening powershell and pasting the following pip commands for each required module:
 
-* Glob: comes built in with the python distribution 
+   * Glob: comes built in with the python distribution 
 
-* Pandas: pip install pandas [https://pypi.org/project/pandas/]
+   * Pandas: pip install pandas [https://pypi.org/project/pandas/]
 
-* MatplotLib: pip install matplotlib [https://pypi.org/project/matplotlib/] 
+   * MatplotLib: pip install matplotlib [https://pypi.org/project/matplotlib/] 
 
