@@ -28,6 +28,9 @@ Current list of scripts:
 3) Open Powershell and navigate to the directory with the script and the required file (depending on DFT calculation of interest):
 
    In windows, this can be achieved by writing: **cd "path of directory"** 
+   
+   Note, path of the directory depends on the folder you are interested in.
 
 4) Once in the correct directory, launch the script by writing: **python "script_name.py"** 
 
+   Note: script_name.py should be replaced with the appropriate script name (ex: EIG_plot.py)
