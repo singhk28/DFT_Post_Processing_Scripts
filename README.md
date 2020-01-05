@@ -9,7 +9,7 @@ Current list of scripts:
 
 3) SIESTA_EIG.py - Plot EIG file to see the eigenvalue spectrum to visualize the spread of eigenvalues.
 
-### How to run scripts:
+## How to run scripts:
 
 1) Install Python version 3 (Preferrably 3.7) [https://www.python.org/downloads/release/python-370/]
 
@@ -24,4 +24,6 @@ Current list of scripts:
    * Pandas: pip install pandas [https://pypi.org/project/pandas/]
 
    * MatplotLib: pip install matplotlib [https://pypi.org/project/matplotlib/] 
+   
+3) Open Powershell and navigate to the directory with the script and the required file (depending on DFT calculation of interest)
 
